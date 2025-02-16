@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Desarrollador de fronted</h2>
+<h2 align="center">Desarrollador  fronted</h2>
 
 
 <p align="center">
